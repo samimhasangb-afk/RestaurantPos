@@ -1,0 +1,9 @@
+{
+  "name": "Saffron POS",
+  "short_name": "Saffron",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4efe6",
+  "theme_color": "#241c16",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

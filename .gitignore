@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+client/node_modules/
+client/dist/
+client/.vite/
+client/android/
+backups/
+*.user
+*.suo
+.DS_Store
